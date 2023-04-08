@@ -40,7 +40,7 @@ Click [here](https://github.com/settings/ssh/new) and you will be directed to yo
 Alternatively, go to your GitHub account settings and navigate to the "SSH and GPG keys" section and click on "New SSH key".
 You should see a similar page.  
 
-![GitHub add new ssh](./new-ssh2.png)   
+![GitHub add new ssh](./assets/new-ssh2.png)   
 
 On mobile phones, scroll down to the section.  
 On the Title input field, give your ssh key a name e.g "ALX-Sandbox".   
@@ -83,7 +83,7 @@ Lets try using the new ssh in a real project.
 Firstly create a new repository here: [new empty repository](https://github.com/new) and give a name and optional description.  
 Do NOT select add README file, .gitignore or license.  
 
-![New Repository](./new-repo.png)
+![New Repository](./assets/new-repo.png)
 
 click on 'create repository'.  
 
@@ -91,7 +91,7 @@ click on 'create repository'.
 
 You will be navigated to the created repository page. Click on the ssh tab as shown below arrow 1: 
 
-![repository select ssh](./git-ssh.png)  
+![repository select ssh](./assets/git-ssh.png)  
 
 Copy the preceding git ssh url, substituting for your username and the name of your repository. Which in the case of the screenshot above is like so on arrow 2:
 
