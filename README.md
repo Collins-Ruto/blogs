@@ -1,7 +1,7 @@
 # Blog Repository
 
 Welcome to my blog repository! This repository contains all the articles and blog posts I have written on various topics. Feel free to explore and read through the content.  
-All blogs posted at [dev.to](https://dev.to/collinsruto)
+All blogs posted here at [dev.to/collinsruto](https://dev.to/collinsruto)
 
 ## Table of Contents
 
@@ -22,6 +22,7 @@ Here are some of the articles you can find in this repository:
 - [Add Google Analyticts to Next.Js 13.4 app dir](https://dev.to/collinsruto/add-google-analyticts-to-nextjs-134-app-dir-51c5)
 - [Write response from a rust function to a file](https://dev.to/collinsruto/write-response-from-a-rust-function-to-a-file-141a)
 - [Send a HashMap as parameters to a rust smart contract](https://dev.to/collinsruto/send-a-hashmap-as-parameters-to-a-rust-smart-contract-2gd4)
+- [GitHub SSH for Linux & ALX SandBox](https://dev.to/collinsruto/github-ssh-for-linux-alx-sandbox-37mp)
 - ...
 
 Feel free to browse the `articles` directory to access the complete list of blog posts.

@@ -1,5 +1,3 @@
-# GitHub SSH for Linux & ALX SandBox
-
 ## Introduction
 
 GitHub SSH (Secure Shell) is a secure protocol used to establish a secure encrypted connection between a local machine and GitHub's remote servers. It allows you to securely authenticate and communicate with GitHub without relying github token and also since passwords deprecated and unsuported.
@@ -40,7 +38,7 @@ Click [here](https://github.com/settings/ssh/new) and you will be directed to yo
 Alternatively, go to your GitHub account settings and navigate to the "SSH and GPG keys" section and click on "New SSH key".
 You should see a similar page.  
 
-![GitHub add new ssh](./assets/new-ssh2.png)   
+![Add SSH GitHub](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/dv7chx2kyvtf7cabs5qt.png)
 
 On mobile phones, scroll down to the section.  
 On the Title input field, give your ssh key a name e.g "ALX-Sandbox".   
@@ -83,7 +81,8 @@ Lets try using the new ssh in a real project.
 Firstly create a new repository here: [new empty repository](https://github.com/new) and give a name and optional description.  
 Do NOT select add README file, .gitignore or license.  
 
-![New Repository](./assets/new-repo.png)
+
+![New github repository](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/hbf7h6c19jo1kgre6aqh.png)
 
 click on 'create repository'.  
 
@@ -91,7 +90,8 @@ click on 'create repository'.
 
 You will be navigated to the created repository page. Click on the ssh tab as shown below arrow 1: 
 
-![repository select ssh](./assets/git-ssh.png)  
+
+![Git SSH](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/72oyfmz2i3w0au7nhujn.png)
 
 Copy the preceding git ssh url, substituting for your username and the name of your repository. Which in the case of the screenshot above is like so on arrow 2:
 
