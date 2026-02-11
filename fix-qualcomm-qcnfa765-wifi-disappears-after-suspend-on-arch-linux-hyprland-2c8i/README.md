@@ -204,4 +204,4 @@ But the real culprit is `ath11k` power management during suspend.
 
 If you're running Hyprland on Arch with Qualcomm WiFi and experiencing this, hopefully this saves you a few hours.
 
-Happy hacking 🐧# Intro
+Happy hacking 🐧
